@@ -11,3 +11,5 @@ UGraph 是深度学习框架，UGraph 中的 U 是 unify 的缩写，UGraph 致�
 ## 架构设计
 
 - [如何设计统一的深度学习框架](./HowToDesignUnifiedDeepLearningFramework.md)：介绍 UGraph 构建统一的深度学习框架使用的方法。
+
+- [“Graph”概述](./OverviewOfGraph.md)：UGraph 统一动态图与静态图运行时的方法。
